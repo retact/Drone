@@ -1,2 +1,2 @@
 # Drone
-Drone created using solidworks
+Drone created using solidworks.
